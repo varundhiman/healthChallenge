@@ -1,0 +1,6 @@
+{
+  "name": "Health Challenge Tracker",
+  "description": "Track health parameters, sync mock sync Apple or Google Health heart rate files, and view rankings in custom groups and hourly heart rate challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
